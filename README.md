@@ -4,4 +4,4 @@ An investigation of the neuroectoderm, detailing the pathways through which neur
 ## File Structure 
 - `Images` contains images of the embryo
 - `notebooks` contains all Jupyter notebooks
-- `Slices` contains coordinate data for eight tissue slices from one C6-stage human embryo, originally published in "The single-cell and spatial transcriptional landscape of human gastrulation and early brain development”, Zeng et al., Cell Stem Cell, 2023 Data DOI: 10.1016/j.stem.2023.04.016
+- `Slices` contains coordinate data for eight tissue slices from one CS6 human embryo, originally published in "The single-cell and spatial transcriptional landscape of human gastrulation and early brain development”, Zeng et al., Cell Stem Cell, 2023 Data DOI: 10.1016/j.stem.2023.04.016
