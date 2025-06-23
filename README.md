@@ -4,6 +4,6 @@ An investigation of neuroectoderm development, detailing the pathways through wh
 ## File Structure 
 - `images` contains images and cell type mappings
 - `notebooks` contains all Jupyter notebooks for data processing and analysis
-- `slices` contains coordinate data for eight tissue slices from a Carnegie Stage 6 (CS6) human embryo human embryo,
+- `slices` contains coordinate data for eight tissue slices from a Carnegie Stage 6 (CS6) human embryo
     - Source: *Zeng et al., "The single-cell and spatial transcriptional landscape of human gastrulation and early brain development",* Cell Stem Cell, 2023  
     - DOI: [10.1016/j.stem.2023.04.016](https://doi.org/10.1016/j.stem.2023.04.016)
