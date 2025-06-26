@@ -1,4 +1,4 @@
-# embryo-reconstruction
+# 3D spatial reconstruction of a developing human embryo
 An investigation of neuroectoderm development, detailing the pathways through which neuroepithelial cells differentiate into glial cells. This project spatially reconstructs a developing human embryo, theorizing the cellular composition of intervening tissue slices and mapping them to a surface plot in order to track the development of the nervous system and examine how early germ layers such as the endoderm, mesoderm, and ectoderm interact. 
 
 ## File Structure 
